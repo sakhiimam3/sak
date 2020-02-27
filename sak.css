@@ -1,0 +1,170 @@
+*{
+    margin: 0px;
+}
+
+
+
+h4{
+    text-align: center;
+    background-color: rgba(2, 26, 2, 0.856);
+     text-align: center;
+     color: honeydew;
+     padding: 15px;
+     font-size: 19px;
+     
+}
+.nine{ 
+    background-color: rgba(2, 26, 2, 0.856);
+    text-align: center;
+    padding: 10px;
+    
+}
+
+li{
+    list-style: none;
+    display:inline;
+    margin-right: 15px;
+    color: honeydew;
+    font-size: 18px;
+    
+    
+    
+}
+img{
+    width: 40px;
+    height: 40px;
+    margin-right: 50px;
+}
+
+  li:hover{
+     background-color: black;
+      cursor: pointer;
+  }
+.ten{
+    list-style: none;
+    background-color: rgb(112, 110, 110);
+    line-height: 80px;}
+    .one{
+        margin-right: 300px;
+    }
+    .kab{
+        width: 20px;
+        height: 20px;
+        margin-right: 20px;
+    }
+    .size{
+        width: 200px;
+        height: 60px;
+        border-radius: 5px;
+        background-color: green;
+        font-size: 13px;
+        color:white;
+        padding-right: 5px;
+    }
+    .gon{
+        width:150px;
+        height: 60px;
+        border-radius: 3px;
+        background-color: rgb(145, 140, 140);
+    }
+
+.six{
+    width: 20px;
+    height: 20px;
+    
+}
+seven{
+    width: 4px;
+    height: 4px;
+    cursor: pointer;
+}
+.six,.seven:hover{
+    color: lawngreen;
+
+
+}
+.main{
+    width: 20px;
+    height: 15px;
+}
+
+h3{ 
+    margin-top: 12px;
+    border:1px solid black ;
+    margin-left: 80px;
+    display: inline-block;
+    padding: 20px;
+    width: 150px;
+    color: white;
+    background-color: red;
+    border: 3px 5px 6px 6px;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-bottom: 0px;
+    height: 10px;
+}
+
+h2{
+    margin-left:600px;
+    display: inline-block;
+    padding: 20px;
+    width: 200px;
+    color: white;
+    background-color: red;
+    border: 3px 5px 6px 6px;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-bottom: px;
+    height: 10px;
+    border:1px solid black ;
+  
+}
+.daw {
+    width: 400px;
+    height: 500px;
+    float:left;
+    max-height: 500px;
+    
+}  
+.cool{
+    width: 30px;
+}
+
+.flot{
+    width: 30%;
+
+}
+    
+.jan{
+    width: 150px;
+    height: 120px;
+}
+.flat{
+    width: 100px;
+    height: 100px;}
+
+
+.madad {
+    width: 100px;
+    height: 100px;
+    float: left;
+    
+
+}
+
+    
+    
+    
+    
+    
+        
+    
+
+
+    
+
+
+
+
+     
+ 

@@ -1,0 +1,55 @@
+body
+{
+    background-color: #fff;
+}
+
+.bg-black
+{
+    background-color: #cacaca;
+}
+
+.nav-pills .nav-link.active, .show>.nav-pills .nav-link
+{
+    background-color: #5f5f5f;
+}
+
+
+
+.mobile-app
+{
+    background-color: #cacaca;
+    padding: 20px 20px;
+}
+
+.mobile-app h4
+{
+    color: white;
+}
+
+.text-white
+{
+    color: #fff !important;
+}
+
+.aslam
+{
+    font-family:'Aslam' !important;
+}
+
+.ur {
+    font-family: urdu !important;
+}
+
+.live-chat-time
+{
+    background-color: #153638;
+    color: white;
+    padding: 0px 20px;
+    border-radius: 25px;
+    direction: rtl;
+}
+
+.nav-link
+{
+    padding: 12px 1rem !important;
+}
